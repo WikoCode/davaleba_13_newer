@@ -1,0 +1,63 @@
+[
+  [
+    {
+      "fieldId":1,
+      "hint":"UserName",
+      "fieldType":"input",
+      "keyboard":"text",
+      "required":false,
+      "isActive":true,
+      "icon":"https://jemala.png"
+    },
+    {
+      "fieldId":2,
+      "hint":"Email",
+      "fieldType":"input",
+      "required":true,
+      "keyboard":"text",
+      "isActive":true,
+      "icon":"https://jemala.png"
+    },
+    {
+      "fieldId":3,
+      "hint":"Phone",
+      "fieldType":"input",
+      "required":true,
+      "keyboard":"number",
+      "isActive":true,
+      "icon":"https://jemala.png"
+    }
+  ],
+  [
+    {
+      "fieldId":4,
+      "hint":"FullName",
+      "fieldType":"input",
+      "keyboard":"text",
+      "required":true,
+      "isActive":true,
+      "icon":"https://jemala.png" },
+    {
+      "fieldId":14,
+      "hint":"Jemali",
+      "fieldType":"input",
+      "keyboard":"text",
+      "required":false,
+      "isActive":true,
+      "icon":"https://jemala.png" },
+    {
+      "fieldId":89,
+      "hint":"Birthday",
+      "fieldType":"chooser",
+      "required":false,
+      "isActive":true,
+      "icon":"https://jemala.png" },
+    {
+      "fieldId":898,
+      "hint":"Gender",
+      "fieldType":"chooser",
+      "required":"false",
+      "isActive":true,
+      "icon":"https://jemala.png" }
+  ]
+]
